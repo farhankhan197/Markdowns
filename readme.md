@@ -1,10 +1,9 @@
-# Welcome Everyone to The Byte Tribe Server
-This Server is Currently Focused on GSOC 2025 Preparation and aims for its members to reach their best by creating an uplifting community with both experienced and beginner programmers.
+Welcome Everyone to The Byte Tribe Server, This Server is Currently Focused on GSOC 2025 Preparation and aims for its members to reach their best by creating an uplifting community with both experienced and beginner programmers.
 
 ## ***This is a Personalised Roadmap for GSOC 2025 for the Members of the Byte Tribe server.***
 
-### ```This Notebook is strictly for the members of the servers only. Anyone Found Distributing it will be subject to being banned from the server.```
-[Google Summer of Code Official Website](https://summerofcode.withgoogle.com/)
+###```This Notebook is strictly for the members of the servers only. Anyone Found Distributing it will be subject to being banned from the server.```
+#[Google Summer of Code Official Website](https://summerofcode.withgoogle.com/)
 
 ---
 # **Fundamental Knowledge**
@@ -13,11 +12,13 @@ This Server is Currently Focused on GSOC 2025 Preparation and aims for its membe
 
 ### 1. **Source Code Availability:**
 
-The source code of the software is freely accessible. This allows anyone to inspect how the software works, modify it to suit their needs, and share those modifications with others.
+ The source code of the software is freely accessible. This allows anyone to inspect how the software works, modify it to suit their needs, and share those modifications with others.
 
 ### 2. **Licensing:**
 
-Open source software is typically distributed under licenses that comply with the Open Source Definition. These licenses grant users the rights to use, modify, and distribute the software.
+ Open source software is typically distributed under licenses that comply with the Open Source Definition. These licenses grant users the rights to use, modify, and distribute the software.
+
+
 
 [List of Free and Open Source Softwares](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
 
@@ -42,23 +43,21 @@ The main philosophy of open-source products is the freedom to think, create, lea
 - #### Learn basic Git commands:  
   - `clone`, `commit`, `push`, `pull`, `branch`, `merge`. Understand how to fork a repository and create pull requests.
   - If someone wants to learn how contribution in Github works, They can contribute to this [Training Repository](https://github.com/Syknapse/Contribute-To-This-Project).
-  - The aforementioned resource contains every step with screenshots to help one become familiar with the concept of pull requests and open source contributions.
+  -The aforementioned resource contains every step with screenshots to help one become familiar with the concept of pull requests and open source contributions.
 
 - #### Development Environment  
   Ability to set up a development environment on your local machine. This includes installing necessary software, libraries, and tools.
   - Integrated Development Environment (IDE) or text editor (e.g., VS Code, PyCharm, Eclipse etc.).
   - Dependency managers (e.g., npm for JavaScript, pip for Python).
   - Containerization tools like Docker (if the project uses it).
-
 ---
-### 2. **Soft Skills**
+## 2. **Soft Skills**
 
 - **Communication**: Good written communication skills to interact with project maintainers and other contributors. This includes writing clear commit messages, pull request descriptions, and comments on issues.
   
 - **Patience and Persistence**: Open source contributions may require multiple iterations and feedback cycles. Be prepared to iterate and improve your work based on feedback.
-
 ---
-### 3. **Communicating with Mentors and Project-Leaders**
+##3. **Communicating with Mentors and Project-Leaders**
 
 Communicating through Emails, Slack and other methods is a huge part in getting yourself recognised and being efficient in contributing to the project.
 It is also a huge learning oppurtunity if you are able to work in someone with way more experience with professional programming and universal code ethics.
@@ -69,12 +68,11 @@ It is also a huge learning oppurtunity if you are able to work in someone with w
 - **Effective Communication**: Ability to communicate clearly and effectively.
 - **Asking Questions**: Know when to ask questions to clarify doubts or issues.
 - **Respect for Others**: Respect and consider other people's opinions and feedback.
-
 ---
 
-### 4. **Naming Branches and Writing Commit Messages**
+## 4. **Naming Branches and Writing Commit Messages**
 
-#### Branch Naming Conventions
+### Branch Naming Conventions
 
 - **Feature Branches**: For new features or enhancements.
   - Example: `feature/add-user-authentication`
@@ -91,9 +89,8 @@ It is also a huge learning oppurtunity if you are able to work in someone with w
 - **Hotfix Branches**: For urgent fixes.
   - Example: `hotfix/patch-security-vulnerability`
   - Example: `hotfix/update-dependencies`
-
 ---
-#### Writing Commit Messages
+### Writing Commit Messages
 
 - **Structure**: Use a short summary, followed by a blank line, and a detailed description if necessary.
   - Example:
@@ -132,7 +129,6 @@ It is also a huge learning oppurtunity if you are able to work in someone with w
     Upgrade the password hashing library to the latest version to address
     the identified vulnerability. Update existing tests to ensure compatibility.
     ```
-
 ---
 ### Best Practices For Commit Messages
 
@@ -140,6 +136,7 @@ It is also a huge learning oppurtunity if you are able to work in someone with w
 - **Use the Imperative Mood**: Write the subject line as if you're giving an order, e.g., "Fix bug" instead of "Fixed bug".
 - **Reference Issues**: If applicable, reference the issue number that the commit addresses, e.g., "Fix login issue #123".
 - **Separate Concerns**: Make sure each commit contains related changes and is not too large. This makes it easier to review and revert if necessary.
+
 
 ---
 
@@ -208,7 +205,6 @@ Some points to remember for good code consistency and quality:
 By following these guidelines, you can maintain clean, readable code that enhances collaboration and reduces maintenance overhead in your projects.
 
 ---
-
 ## Reading Documentation of GSoC Projects and Handling Large Codebases
 
 Understanding the documentation of Google Summer of Code (GSoC) projects and effectively navigating large codebases are essential skills for successful contributions.
@@ -217,34 +213,164 @@ Understanding the documentation of Google Summer of Code (GSoC) projects and eff
 
 - **Start with the README**: The README file provides an overview of the project, its purpose, installation instructions, and basic usage.
 - **Contribution Guidelines**: Review the CONTRIBUTING.md file or section in the README for guidelines on how to contribute effectively.
-- **Project Structure**: Understand the organization of the project, including directories, modules, and files.
-- **API Documentation**: Explore API documentation to understand the functionality of different components and how to use them.
-- **Code Comments**: Pay attention to comments within the codebase for insights into the logic and purpose of various sections.
+- **Project Structure**: Understand the organization of the codebase, including main directories, modules, and important files.
 
 ### 2. Navigating Large Codebases
 
-- **Directory Structure**: Familiarize yourself with the project's directory structure to locate relevant files and modules.
-- **Core Modules**: Identify and understand the core modules and components that form the backbone of the project.
-- **Dependencies**: Review dependencies and external libraries used by the project, and understand their roles.
-- **Build and Test Scripts**: Learn how to build, test, and run the project using provided scripts or instructions.
-- **Code Flow**: Trace the flow of code execution from entry points (e.g., main functions, endpoints) to understand the sequence of operations.
+- **Search Functionality**: Use the search functionality in your code editor or IDE to quickly locate files, functions, and variables.
+- **Directory Structure**: Familiarize yourself with the directory structure to understand where different components of the project are located.
+- **Module Dependencies**: Identify dependencies between modules or packages to understand how different parts of the code interact.
 
-### 3. Handling Complex Code
+### 3. Code Documentation
 
-- **Break Down Tasks**: Divide complex tasks into smaller, manageable subtasks to avoid being overwhelmed.
-- **Use Debuggers**: Utilize debugging tools to step through code and identify issues.
-- **Ask for Help**: Reach out to project maintainers or the community for clarification or assistance when needed.
+- **Inline Comments**: Pay attention to inline comments that explain specific sections of code or provide context for complex algorithms.
+- **Docstrings**: Look for docstrings in functions, classes, and methods that describe their purpose, parameters, and return values.
+- **API Documentation**: If the project includes APIs, review the API documentation to understand endpoints, request methods, and response formats.
 
-### 4. Continuous Learning
+### 4. Handling Complexity
 
-- **Documentation Updates**: Stay updated with changes in documentation and codebase by following project updates and release notes.
-- **Code Reviews**: Participate in code reviews to learn from others' code and receive feedback on your contributions.
-- **Community Involvement**: Engage with the project's community through forums, chat channels, and mailing lists.
+- **Break Down Tasks**: Break down large tasks into smaller, manageable sub-tasks to tackle them incrementally.
+- **Code Reviews**: Utilize code reviews to gain insights from experienced contributors and ensure code quality.
+- **Version Control**: Use version control effectively to track changes, revert to previous versions if needed, and collaborate with other contributors.
 
-By mastering these skills, you can effectively contribute to GSoC projects and make meaningful contributions to large open-source codebases.
+### 5. Tools and Techniques
 
+- **Debugger**: Use a debugger to step through code execution, inspect variables, and understand control flow.
+- **Code Analysis Tools**: Employ static code analysis tools to identify potential issues, improve code quality, and enforce coding standards.
+- **Profiling Tools**: Use profiling tools to analyze code performance and identify bottlenecks in large codebases.
+
+### 6. Communication and Collaboration
+
+- **Ask for Clarification**: Don’t hesitate to ask questions on project communication channels (e.g., Slack, mailing lists) to clarify doubts about project structure or functionality.
+- **Collaborative Tools**: Use collaborative tools like issue trackers (e.g., GitHub Issues) and project management boards (e.g., Trello, JIRA) to coordinate efforts and track progress.
+
+### 7. Continuous Learning
+
+- **Stay Updated**: Regularly review project updates, new features, and changes in the codebase.
+- **Expand Knowledge**: Continuously expand your knowledge of relevant technologies, frameworks, and best practices through online courses, tutorials, and documentation.
+
+By following these guidelines, you can effectively read and navigate the documentation of GSoC projects and handle large codebases to make meaningful contributions during your GSoC journey.
+
+-------
+## Finding an Open Source Project to Contribute
+
+Identifying a project to contribute to is a crucial step in your open source journey. Here are some effective methods to find a project that aligns with your interests:
+
+### Identify Your Passionate Projects
+
+- **Daily Use**: Consider projects you use frequently in your daily life. You are likely passionate about improving features or fixing issues that affect you directly.
+
+### Utilize Online Platforms
+
+- [**Google Summer of Code (GSoC) Website**](https://summerofcode.withgoogle.com/):
+  - Explore organizations that work on technologies you're passionate about.
+  - Search for projects aligned with your interests and skills.
+
+- [**GitHub Explore**](https://github.com/explore):
+  - Browse trending repositories and topics related to your passion.
+
+- [**GitHub Issues**](https://github.com/features/issues):
+  - Use GitHub's powerful issue search tool to find projects with good first issues or specific topics.
+-  [**Open Source Friday**](https://opensourcefriday.com/)
+-  [**First Timers Only**](https://firsttimersonly.com/)
+-  [**First Timers Only**](https://codetriage.com/)
+-  [**24 Pull Requests**](https://24pullrequests.com/)
+-  [**Up for Grabs**](https://up-for-grabs.net/#/)
+-  [**First Contributions**](https://firstcontributions.github.io/)
+-  [**Source Sort**](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+-  [**OpenSauced**](https://opensauced.pizza/)
+-  [**Ovio -**](https://ovio.org/) [For finding good first issues use this link.](https://ovio.org/issues)
+
+
+
+
+### Community Engagement
+
+- **Welcoming Communities**:
+  - Join communities known for welcoming new contributors, such as those listed on Open Source Friday, First Timers Only, and CodeTriage.
+
+- **Events and Initiatives**:
+  - Participate in initiatives like 24 Pull Requests, Up For Grabs, and First Contributions.
+
+### Resources
+
+- **Open Source Guides**:
+  - Visit freeCodeCamp's guide on [how to contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) for comprehensive resources.
 ---
 
-## Conclusion
 
-By following this roadmap and actively engaging with the open-source community, you can successfully prepare for Google Summer of Code (GSoC) 2025 and make impactful contributions to open-source projects. Good luck!
+# **Timeline Roadmap**
+
+
+
+## *1. Understanding GSoC (June - July)*
+   - *Research GSoC:* Read the [Google Summer of Code Official Website](https://summerofcode.withgoogle.com/)
+ to understand the program's structure, goals, and timelines.
+   - *Attend the Weekly Calls and Chats:* Get yourself familiar with the server,chat with fellow members to discuss GSOC approaches and collaboration for project ideas, also attend the weekly calls to connect with past participants and mentors.
+
+### *2. Skill Development (July - September)*
+   - *Identify Your Strengths and Weaknesses:* Determine which programming languages and frameworks you need to improve.
+   - *Learn the Basics:* If you're new to open source, learn about version control systems like Git and collaboration tools like GitHub or GitLab.
+   - *Practice Coding:* Work on coding challenges on platforms like [LeetCode](https://www.leetcode.com), [HackerRank](https://www.hackerrank.com) , or [Codeforces](https://www.codeforces.com) to improve your problem-solving skills.
+
+   - Advanced members can practice by participating in other open source events and projects of thier own to brush up thier skills.
+
+   - Project ideas and people that are willing to contribute can be found in the ```#project-ideas``` channel of the server.
+
+   - Ongoing projects include [Stream Pulse](https://github.com/ayushsharma74/stream-pulse) by Ayush.
+
+   - Use ```#project-ideas``` to promote contribution on your own project or to propose a project idea to server members.
+
+### *3. Explore Organizations (October - November)*
+   - *List of Organizations:* Review the list of participating organizations from previous years to get an idea of which organizations might participate again.
+   - A complete comprehensive list of the past programs can be found [here.](https://summerofcode.withgoogle.com/archive)
+   - *Match Interests:* Identify organizations that align with your interests and skill set.
+   - *Contribute to Projects:* Start contributing to the projects of these organizations. This can be through fixing bugs, adding features, or improving documentation - *(while updating the documentation, refrain from making unnecessary changes and changes that are not meaningful)*.
+
+### *4. Deep Dive into Selected Organizations (December - January)*
+   - *Understand the Projects:* Read about the projects that interest you, understand their goals, and look at their codebase.
+   - *Engage with the Community:* Join the IRC channels, Slack groups, or mailing lists of these organizations. Introduce yourself and ask questions.
+   - Use [This](https://google.github.io/gsocguides/student/communication-best-practices) Guide here to follow the best practices for professional and respectful communication in GSOC communities.
+   - *Contribute Actively:* Make meaningful contributions to the projects. This will help you build a rapport with the community and potential mentors.
+
+### *5. Proposal Preparation (February - March)*
+   - *Identify Potential Projects:* Review the list of projects proposed by the organizations.
+   - *Draft Proposal:* Start drafting your project proposal. Include details like project objectives, timeline, milestones, and your approach.
+   - *Seek Feedback:* Share your draft with mentors and the community for feedback. Refine your proposal based on their suggestions.
+   - *Prepare Backup Proposals:* It's a good idea to have more than one proposal in case your primary proposal is not selected.
+
+### *6. Application Phase (March - April)*
+   - *Submit Application:* Submit your final proposal through the GSoC website. Make sure it’s well-polished and error-free.
+   - *Follow Up:* Keep in touch with the community and mentors. Answer any questions they might have about your proposal.
+
+### *7. Pre-Coding Period (April - May)*
+   - *Community Bonding:* Use this time to bond with your organization. Understand their coding standards and workflow.
+   - *Set Up Development Environment:* Ensure you have all the necessary tools and dependencies set up on your system.
+   - *Plan in Detail:* Break down your project into smaller tasks and create a detailed plan for the coding period.
+
+### *8. Coding Period (May - August)*
+   - *Regular Updates:* Provide regular updates to your mentor and community. Use version control effectively to track your progress.
+   - *Stick to the Timeline:* Follow the timeline you proposed. If you encounter any issues, communicate them promptly.
+   - *Testing:* Write tests for your code and ensure it integrates well with the existing codebase.
+
+### *9. Final Evaluation (August)*
+   - *Complete Documentation:* Write detailed documentation for your project. This includes setup guides, user manuals, and developer guides.
+   - *Final Submission:* Submit your completed project for final evaluation. Ensure all your code is merged and documented.
+   - *Prepare for Demo:* Be ready to present your work to the community and mentors.
+
+### *10. Post-GSoC (September and beyond)*
+   - *Reflect:* Reflect on your experience. Note down what you learned and areas for improvement.
+   - *Continue Contributing:* If possible, continue contributing to the organization. This can lead to long-term collaboration.
+   - *Share Your Experience:* Write a blog post or give a talk about your GSoC journey. This can help future participants.
+
+### *Additional Tips*
+   - *Time Management:* Balance your GSoC preparations with other commitments. Set aside regular time for open-source contributions.
+   - *Networking:* Build connections with fellow GSoC participants. They can provide support and feedback.
+   - *Learning Resources:* Utilize online courses, tutorials, and books to enhance your skills.
+
+And Thats it for this Roadmap, Routine improvements will be made to this notebook and contributions to this roadmap are also welcome.
+
+
+
+
+
