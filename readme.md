@@ -323,20 +323,20 @@ Identifying a project to contribute to is a crucial step in your open source jou
 
 ### *3. Explore Organizations (October - November)*
    - *List of Organizations:* Review the list of participating organizations from previous years to get an idea of which organizations might participate again.
-   - A complete comprehensive list of the past programs can be found [here.](https://summerofcode.withgoogle.com/archive)
+   - A complete comprehensive list of the past programs can be found [here.](https://www.gsocorganizations.dev)
    - *Match Interests:* Identify organizations that align with your interests and skill set.
    - *Contribute to Projects:* Start contributing to the projects of these organizations. This can be through fixing bugs, adding features, or improving documentation - *(while updating the documentation, refrain from making unnecessary changes and changes that are not meaningful)*.
 
 ### *4. Deep Dive into Selected Organizations (December - January)*
    - *Understand the Projects:* Read about the projects that interest you, understand their goals, and look at their codebase.
-   - *Engage with the Community:* Join the IRC channels, Slack groups, or mailing lists of these organizations. Introduce yourself and ask questions.
+   - *Engage with the Community:* Join the IRC channels, Slack groups,Discord servers, or mailing lists of these organizations. Introduce yourself and ask questions.
    - Use [This](https://google.github.io/gsocguides/student/communication-best-practices) Guide here to follow the best practices for professional and respectful communication in GSOC communities.
    - *Contribute Actively:* Make meaningful contributions to the projects. This will help you build a rapport with the community and potential mentors.
 
 ### *5. Proposal Preparation (February - March)*
    - *Identify Potential Projects:* Review the list of projects proposed by the organizations.
-   - *Draft Proposal:* Start drafting your project proposal. Include details like project objectives, timeline, milestones, and your approach.
-   - *Seek Feedback:* Share your draft with mentors and the community for feedback. Refine your proposal based on their suggestions.
+   - *Draft Proposal:* Start drafting your project proposal. Include details like project objectives, timeline (Make sure to add timeline that fits according to your scenario), milestones, and your approach.
+   - *Seek Feedback:* Share your draft with mentors and the community for feedback. Refine your proposal based on their suggestions. DO NOT send your proposal without acceptance from mentors you'll be immediatly rejected
    - *Prepare Backup Proposals:* It's a good idea to have more than one proposal in case your primary proposal is not selected.
 
 ### *6. Application Phase (March - April)*
@@ -345,11 +345,11 @@ Identifying a project to contribute to is a crucial step in your open source jou
 
 ### *7. Pre-Coding Period (April - May)*
    - *Community Bonding:* Use this time to bond with your organization. Understand their coding standards and workflow.
-   - *Set Up Development Environment:* Ensure you have all the necessary tools and dependencies set up on your system.
+   - *Set Up Development Environment:* Ensure you have all the necessary tools and dependencies set up on your system eg. Docker, NodeJS, Python etc.
    - *Plan in Detail:* Break down your project into smaller tasks and create a detailed plan for the coding period.
 
 ### *8. Coding Period (May - August)*
-   - *Regular Updates:* Provide regular updates to your mentor and community. Use version control effectively to track your progress.
+   - *Regular Updates:* Provide regular updates to your mentor and community. Use version control (Git, GitHub etc) effectively to track your progress.
    - *Stick to the Timeline:* Follow the timeline you proposed. If you encounter any issues, communicate them promptly.
    - *Testing:* Write tests for your code and ensure it integrates well with the existing codebase.
 
@@ -362,6 +362,16 @@ Identifying a project to contribute to is a crucial step in your open source jou
    - *Reflect:* Reflect on your experience. Note down what you learned and areas for improvement.
    - *Continue Contributing:* If possible, continue contributing to the organization. This can lead to long-term collaboration.
    - *Share Your Experience:* Write a blog post or give a talk about your GSoC journey. This can help future participants.
+
+### *Additional Tips*
+   - *Time Management:* Balance your GSoC preparations with other commitments. Set aside regular time for open-source contributions.
+   - *Networking:* Build connections with fellow GSoC participants. They can provide support and feedback.
+   - *Learning Resources:* Utilize online courses, tutorials, and books to enhance your skills.
+
+And Thats it for this Roadmap, Routine improvements will be made to this notebook and contributions to this roadmap are also welcome.
+
+
+
 
 ### *Additional Tips*
    - *Time Management:* Balance your GSoC preparations with other commitments. Set aside regular time for open-source contributions.
