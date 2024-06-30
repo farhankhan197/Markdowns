@@ -375,14 +375,5 @@ And Thats it for this Roadmap, Routine improvements will be made to this noteboo
 
 
 
-### *Additional Tips*
-   - *Time Management:* Balance your GSoC preparations with other commitments. Set aside regular time for open-source contributions.
-   - *Networking:* Build connections with fellow GSoC participants. They can provide support and feedback.
-   - *Learning Resources:* Utilize online courses, tutorials, and books to enhance your skills.
-
-And Thats it for this Roadmap, Routine improvements will be made to this notebook and contributions to this roadmap are also welcome.
-
-
-
 
 
