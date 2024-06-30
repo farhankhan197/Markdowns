@@ -1,6 +1,7 @@
+## ***This is a Personalised Roadmap for GSOC 2025 for the Members of the [Byte Tribe](https://discord.gg/eqs92nbu) server.***
+
 Welcome Everyone to The Byte Tribe Server, This Server is Currently Focused on GSOC 2025 Preparation and aims for its members to reach their best by creating an uplifting community with both experienced and beginner programmers.
 
-## ***This is a Personalised Roadmap for GSOC 2025 for the Members of the Byte Tribe server.***
 
 ### ```This Notebook is strictly for the members of the servers only. Anyone Found Distributing it will be subject to being banned from the server.```
 
