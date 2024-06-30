@@ -57,7 +57,7 @@ The main philosophy of open-source products is the freedom to think, create, lea
   
 - **Patience and Persistence**: Open source contributions may require multiple iterations and feedback cycles. Be prepared to iterate and improve your work based on feedback.
 ---
-##3. **Communicating with Mentors and Project-Leaders**
+## 3. **Communicating with Mentors and Project-Leaders**
 
 Communicating through Emails, Slack and other methods is a huge part in getting yourself recognised and being efficient in contributing to the project.
 It is also a huge learning oppurtunity if you are able to work in someone with way more experience with professional programming and universal code ethics.
