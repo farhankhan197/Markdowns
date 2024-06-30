@@ -275,7 +275,7 @@ Identifying a project to contribute to is a crucial step in your open source jou
   - Use GitHub's powerful issue search tool to find projects with good first issues or specific topics.
 -  [**Open Source Friday**](https://opensourcefriday.com/)
 -  [**First Timers Only**](https://firsttimersonly.com/)
--  [**First Timers Only**](https://codetriage.com/)
+-  [**CodeTriage**](https://codetriage.com/)
 -  [**24 Pull Requests**](https://24pullrequests.com/)
 -  [**Up for Grabs**](https://up-for-grabs.net/#/)
 -  [**First Contributions**](https://firstcontributions.github.io/)
@@ -289,7 +289,7 @@ Identifying a project to contribute to is a crucial step in your open source jou
 ### Community Engagement
 
 - **Welcoming Communities**:
-  - Join communities known for welcoming new contributors, such as those listed on Open Source Friday, First Timers Only, and CodeTriage.
+  - Join communities known for welcoming new contributors, such as those listed on [Open Source Friday](https://opensourcefriday.com/), [First Timers Only](https://firsttimersonly.com/), and [CodeTriage](https://codetriage.com/).
 
 - **Events and Initiatives**:
   - Participate in initiatives like 24 Pull Requests, Up For Grabs, and First Contributions.
